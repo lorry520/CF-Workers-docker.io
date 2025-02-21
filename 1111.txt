@@ -1,3 +1,4 @@
+proxies:
   - {name: 其他1-FI | ⬇️ 1.5MB/s, server: canva.com, port: 2096, type: vless, uuid: 859c2ed8-cd1f-46e7-8fc9-ff0fadd5e3d9, tls: true, skip-cert-verify: true, servername: bEAt.MIRaclETaxbiTS.Top., network: ws, ws-opts: {path: /2096/@VRayyNGvpn, headers: {Host: bEAt.MIRaclETaxbiTS.Top.}}}
   - {name: 新加坡1 | ⬇️ 3.3MB/s, server: 166.108.199.125, port: 443, type: vless, uuid: 4b9716e0-02b2-486c-f8b0-c9702d6b50a1, tls: true, skip-cert-verify: true, servername: dod.fenmila.me, network: ws, ws-opts: {path: /bing, headers: {Host: dod.fenmila.me}}}
   - {name: 新加坡2 | ⬇️ 12.1MB/s, server: 104.43.22.149, port: 443, type: vless, uuid: 766a6915-92db-4ea5-c5f4-6ef9e2fc839c, tls: true, skip-cert-verify: true, servername: doc.fenmila.me, network: ws, ws-opts: {path: /bing, headers: {Host: doc.fenmila.me}}}
